@@ -17,5 +17,3 @@ Welcome to **CarRental**, a sleek and modern car rental platform for showcasing 
 - 🌬 Tailwind CSS
 - 🎞 GSAP & ScrollTrigger
 - 📦 React Router DOM
-
-## 📁 Project Structure
